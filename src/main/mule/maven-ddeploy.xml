@@ -10,7 +10,7 @@
 			</scheduling-strategy>
 		</scheduler>
 		<logger level="INFO" doc:name="Logger" doc:id="9f1e4937-ae5c-4d85-922c-04a35c268b29" />
-		<set-payload value='#["FUNCIONAOU OIUOIOUOUOUOUOUOUOUOUOUOUOUOUOU"]' doc:name="Set Payload" doc:id="1bbc415d-379f-48e1-a1d9-a8f6a8fd5294" />
+		<set-payload value='#["FUNCIONou no azure"]' doc:name="Set Payload" doc:id="1bbc415d-379f-48e1-a1d9-a8f6a8fd5294" />
 		<logger level="INFO" doc:name="Logger" doc:id="cb78f49d-e9b3-4a40-ad8e-8fe9ca506aa6" message="#[payload]"/>
 	</flow>
 </mule>
